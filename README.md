@@ -2,7 +2,7 @@
 
 PGP Suite - A simple and easy-to-use client-side PGP tool.
 
-**URL:** https://heiswayi.github.io/pgp/
+**URL:** [PGP-Tool](https://zakghost354313.github.io/pgp-tool)
 
 ## License
 
